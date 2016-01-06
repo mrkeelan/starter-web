@@ -19,5 +19,7 @@ Deployment here. Test.
 
 ## How To Contribute
 
+Please fork this repo and then issue pull requests.
+
 ## Copyright
 2015 Git.Training
