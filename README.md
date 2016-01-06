@@ -18,3 +18,6 @@ Sample website with plenty of files for demos
 Deployment here. Test.
 
 ## How To Contribute
+
+## Copyright
+2015 Git.Training
