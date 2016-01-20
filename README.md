@@ -22,4 +22,4 @@ Deployment here. Test.
 Please fork this repo and then issue pull requests.
 
 ## Copyright
-2015 Git.Training
+2015 Git.Training. All rights reserved.
